@@ -1,3 +1,5 @@
 # LLM-ELN
 Large Language Modeling in Electronic Lab Notebook
-![Alt Text](LLM-ELM-Logo.png)
+<p align="center">
+  <img src="LLM-ELM-Logo.pngg" alt="Alt Text">
+</p>
