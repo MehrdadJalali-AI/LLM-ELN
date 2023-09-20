@@ -48,13 +48,13 @@ def init_history(messages_history):
 
 
 with gr.Blocks() as demo:
-    gr.Markdown("ChatGPT非科学接入")
+    gr.Markdown("ChatGPT")
     with gr.Tab("GPT-3.5"):
-        chatbot = gr.Chatbot(label ='对话记录')
-        msg = gr.Textbox(label ='输入框')
+        chatbot = gr.Chatbot(label ='record')
+        msg = gr.Textbox(label ='input')
         recording = gr.Button('recorder')
-        sub = gr.Button("发送")
-        clear = gr.Button("清除")
+        sub = gr.Button("send")
+        clear = gr.Button("clear")
         state = gr.State([])
 
 
