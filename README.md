@@ -5,6 +5,11 @@
 
 This project explores the transformative impact of Large Language Models (LLMs) within Electronic Laboratory Notebooks (ELNs) in the domain of materials science. The aim is to enhance research workflows, data management, and knowledge extraction through advanced AI-driven approaches.
 
+<div style="text-align: center;">
+    <img src="Ecosystem.jpg" alt="LLM-ELN Integration Ecosystem" width="800">
+    <p>Figure: Integration ecosystem of Large Language Models (LLMs) with Electronic Laboratory Notebooks (ELNs). This diagram illustrates the workflow from user prompts through internal data storage, LLM processing, and text analysis, to the final response within the ELN content.</p>
+</div>
+
 ## Main Components
 
 - **LLM_ELN.ipynb**: This Jupyter Notebook is the central file where the integration of LLMs with ELNs is implemented and demonstrated.
