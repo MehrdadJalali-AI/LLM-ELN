@@ -1,6 +1,6 @@
 # Large Language Models in Electronic Laboratory Notebooks (LLM-ELN)
 <p align="center">
-    <img src="NLP1.jpg" alt="NLP1" width="600" height="600">
+    <img src="NLP1.jpg" alt="NLP1" width="500" height="500">
 </p>
 
 
