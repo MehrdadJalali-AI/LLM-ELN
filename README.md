@@ -37,6 +37,10 @@ Open the Jupyter Notebooks in the following order to understand and interact wit
 3. **Evaluation_LLM_ELN.ipynb** - Review the evaluation metrics and results.
 4. **Plots_LLM_ELN.ipynb** - Visualize the impact and outcomes.
 
+<div style="text-align: center;">
+    <img src="LLM-ELN-APP.jpg" alt="LLM-ELN Application Interface" width="800">
+    <p>Figure: Screenshot of the LLM-ELN interface demonstrating the application's capability to process and respond to user queries about experiments, showcasing advanced AI-driven experimental planning and optimization.</p>
+</div>
 ## Contributors
 
 This project was developed by a team from the Institute of Functional Interfaces at the Karlsruhe Institute of Technology, including Mehrdad Jalali, Yi Luo, Lachlan Caulfeld, Eric Sauter, Alexei Nefedov, and Christof Wöll.
