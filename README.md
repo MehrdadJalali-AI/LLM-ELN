@@ -3,9 +3,6 @@
     <img src="NLP1.jpg" alt="NLP1" width="600" height="600">
 </div>
 
-# Project Overview: Large Language Models...
-
-
 This project explores the transformative impact of Large Language Models (LLMs) within Electronic Laboratory Notebooks (ELNs) in the domain of materials science. The aim is to enhance research workflows, data management, and knowledge extraction through advanced AI-driven approaches.
 
 ## Main Components
