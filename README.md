@@ -47,6 +47,7 @@ Open the Jupyter Notebooks in the following order to understand and interact wit
 
 This project was developed by a team from the Institute of Functional Interfaces at the Karlsruhe Institute of Technology, including Mehrdad Jalali, Yi Luo, Lachlan Caulfeld, Eric Sauter, Alexei Nefedov, and Christof Wöll.
 
-## Contact
+## Citation
+If you use this code for your research, please cite the following paper:
 
-For further inquiries or contributions to the project, please reach out to the corresponding author via the contact details provided in the repository.
+Jalali, Mehrdad, Yi Luo, Lachlan Caulfeld, Eric Sauter, Alexei Nefedov, and Christof Wöll. <a href="https://doi.org/10.1016/j.mtcomm.2024.109801"> "Large Language Models in Electronic Laboratory Notebooks: Transforming Materials Science Research Workflows." </a>Materials Today Communications (2024): 109801.
