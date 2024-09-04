@@ -1,3 +1,4 @@
+<a href="https://plu.mx/plum/a/?doi=10.1016%2Fj.mtcomm.2024.109801" data-popup="right" data-size="large" class="plumx-plum-print-popup" data-site="plum" data-hide-when-empty="true">Large language models in electronic laboratory notebooks: Transforming materials science research workflows</a>
 # Large Language Models in Electronic Laboratory Notebooks (LLM-ELN)
 <p align="center">
     <img src="NLP3.jpg" alt="NLP3" width="500" height="500">
